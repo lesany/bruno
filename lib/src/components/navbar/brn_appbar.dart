@@ -302,7 +302,7 @@ class BrnAppBar extends PreferredSize {
       shape: shape,
       iconTheme: iconTheme,
       actionsIconTheme: actionsIconTheme,
-      textTheme: textTheme,
+      // textTheme: textTheme,
       primary: primary,
       excludeHeaderSemantics: excludeHeaderSemantics,
     );
